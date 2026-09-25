@@ -1,1 +1,1 @@
-print("hello worls from jenkins"):
+print("hello worls from jenkins")
